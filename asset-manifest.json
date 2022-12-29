@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.904334cb.css",
+    "main.js": "/react-portfolio/static/js/main.8f7b99d9.js",
+    "static/js/787.cf91250d.chunk.js": "/react-portfolio/static/js/787.cf91250d.chunk.js",
+    "static/media/hero-bg.jpg": "/react-portfolio/static/media/hero-bg.8a288c26fe5b4e4d03a0.jpg",
+    "static/media/weather-clouds.webp": "/react-portfolio/static/media/weather-clouds.0d7dc006deb0a67507c5.webp",
+    "static/media/workday-schedular.png": "/react-portfolio/static/media/workday-schedular.7435117bb8abf9f663d8.png",
+    "static/media/cat-photo.jpg": "/react-portfolio/static/media/cat-photo.dc1eb705ca7341d5aeb2.jpg",
+    "static/media/robot-gladiators.webp": "/react-portfolio/static/media/robot-gladiators.9c782ce685e86ce8e809.webp",
+    "index.html": "/react-portfolio/index.html",
+    "main.904334cb.css.map": "/react-portfolio/static/css/main.904334cb.css.map",
+    "main.8f7b99d9.js.map": "/react-portfolio/static/js/main.8f7b99d9.js.map",
+    "787.cf91250d.chunk.js.map": "/react-portfolio/static/js/787.cf91250d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904334cb.css",
+    "static/js/main.8f7b99d9.js"
+  ]
+}
