@@ -1,4 +1,5 @@
 import React from "react";
+import LinkedInProfileBadge from 'react-linkedin-profile-badge';
 
 function Resume() {
   return (
@@ -16,12 +17,7 @@ function Resume() {
           </ul>
 
           <p class="mt-5">
-            <a href="https://www.linkedin.com/in/diegoconserve/">
-              <img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
-              />
-            </a>
+          <LinkedInProfileBadge profileId='diegoconserve' theme='light' size='medium' orientation='vertical' showLink='true' />
           </p>
 
           <a
@@ -38,7 +34,10 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-           Add Information later
+            Add Information Later
+            </li>
+            <li>
+            Add Information Later
             </li>
           </ul>
         </div>
