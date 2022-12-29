@@ -17,7 +17,7 @@ function Resume() {
           </ul>
 
           <p class="mt-5">
-          <LinkedInProfileBadge profileId='diegoconserve' theme='light' size='medium' orientation='vertical' showLink='true' />
+          <LinkedInProfileBadge profileId='diegoconserve' theme='light' size='medium' orientation='vertical'/>
           </p>
 
           <a
@@ -34,7 +34,7 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-            Add Information Later
+           Add Information Later
             </li>
             <li>
             Add Information Later
